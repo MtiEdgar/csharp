@@ -32,6 +32,15 @@ namespace _04RadioButton
             {
                 label2.Text = "Hombre";
             }
+            if (radioButton3.Checked == true)
+            {
+                label2.Text = "Smashing Pumpkins";
+            }
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
