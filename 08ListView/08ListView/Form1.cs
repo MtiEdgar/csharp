@@ -30,7 +30,7 @@ namespace _08ListView
         private void button1_Click(object sender, EventArgs e)
         {
             listView1.Items.Add("Hola");
-            //listView1.Items.Add("Hola");
+            /*listView1.Items.Add("Hola");*/
 
         }
     }
